@@ -1,0 +1,1 @@
+import{h as n}from"./Container.ccea6b89.js";import{c as t,l as a,m as o,D as r,J as s,u as l}from"./runtime-core.esm-bundler.fd6e27b4.js";import"./index.c2b5f797.js";const f=t({__name:"TokensPlayground",setup(c){const{theme:e}=n();return(m,u)=>(a(),o("div",null,[r("pre",null,s(JSON.stringify(l(e),null,2)),1)]))}});export{f as default};

@@ -1,0 +1,1 @@
+import{b as o}from"./Container.ccea6b89.js";import{l as t,m as r,E as n}from"./runtime-core.esm-bundler.fd6e27b4.js";import"./index.c2b5f797.js";const c={};function s(e,_){return t(),r("tbody",null,[n(e.$slots,"default")])}const f=o(c,[["render",s]]);export{f as default};
